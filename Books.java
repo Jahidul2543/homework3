@@ -20,6 +20,9 @@ public class Books {
 		this.qntOfNovel = quantity;
 		// declare parameter
 	}
+	public Books(int nos, String storyName) {
+	
+	}
 	//
 
 	public String getNovel() {
